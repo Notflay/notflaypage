@@ -1,36 +1,21 @@
-import express from "express";
-import indexRoutes from "./routes/index.routes.js";
-import { engine } from "express-handlebars";
-import morgan from "morgan";
-import path from "path";
-import { fileURLToPath } from "url";
+const express = require("express");
+/* var router = require("./routes/index.routes.js"); */
+const { engine } = require("express-handlebars");
+const path = require("path");
 
 const app = express();
 app.use(express.json());
 
-// Config para que funciones el hbs
-
-app.set("views", path.join(__dirname, "views"));
-
-app.engine(
-  ".hbs",
-  engine({
-    layoutsDir: path.join(app.get("views"), "layouts"),
-    partialsDir: path.join(app.get("views"), "partials"),
-    defaultLayout: "main",
-    extname: ".hbs",
-  })
-);
-
-app.set("view engine", ".hbs");
-
-// Middlewares
-app.use(morgan("dev"));
-app.use(express.urlencoded({ extended: false }));
-// --------
-app.use(indexRoutes);
 // Static files
 app.use(express.static(path.join(__dirname, "public")));
+
+// Middlewares
+app.use(express.urlencoded({ extended: false }));
+// --------
+app.use("/", (req, res) => {
+  console.log(path.join(__dirname, "views", "index.html"));
+  res.sendFile(path.join(__dirname, "views", "index.html"));
+});
 
 const port = process.env.PORT || 9001;
 app.listen(port, () => console.log("connect"));

@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "type": "commonjs",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
-    "dev": "nodemon src/index.js --exec babel-node",
-    "build": "babel src -d dist && ncp src/views dist/views && ncp src/public dist/public",
-    "start": "node ./dist"
+    "start": "nodemon src/index.js"
   },
   "keywords": [],
   "author": "",
