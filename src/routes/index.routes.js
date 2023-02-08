@@ -1,8 +1,8 @@
-const { Router } = require("express");
-const { renderHome } = require("../controllers/page.routes.js");
+import { Router } from "express";
+import { renderHome } from "../controllers/page.routes";
 
 const router = Router();
 
 router.get("/", renderHome);
 
-module.exports = router;
+export default router;

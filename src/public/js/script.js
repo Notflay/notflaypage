@@ -81,7 +81,7 @@ const images = [
   "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0023_Layer-41.png",
   "https://333clips333.xyz/img/Untitled-1_0001_Layer-6.png",
   "https://333clips333.xyz/img/Untitled-1_0002_Layer-5.png",
-];
+]
 
 const links = [
   "http://www.bopsecrets.org/Spanish/religion.htm",
@@ -415,7 +415,7 @@ const links = [
   "https://arena-attachments.s3.amazonaws.com/18802335/1b071215059229c547686669189e9a72.pdf?1667438253",
 
   "docs/1b071215059229c547686669189e9a72.pdf",
-];
+]
 
 let currentIndex = 0;
 
@@ -428,7 +428,7 @@ function showImage(cont) {
   img.src = images[currentIndex];
   let num = Math.floor(Math.random() * 1700);
   let numH = Math.floor(Math.random() * 700);
-  img.style = `margin-left: ${num}px; margin-top: ${numH}px`;
+  img.style = `margin-left: ${num}px; margin-top: ${numH}px; position: absolute`;
   lnk.appendChild(img);
   container.appendChild(lnk);
 }
