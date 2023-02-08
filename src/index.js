@@ -32,4 +32,5 @@ app.use(indexRoutes);
 // Static files
 app.use(express.static(path.join(__dirname, "public")));
 
-app.listen(3000);
+const port = process.env.PORT || 9001;
+app.listen(port, () => console.log("connect"));
