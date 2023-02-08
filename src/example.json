@@ -1,0 +1,16 @@
+[
+    {
+        "id":"1",
+        "title":"Alien",
+        "Director":"James Camaron",
+        "year":"1995",
+        "ratings":"8.5"
+    },
+    {
+        "id":"2",
+        "title":"Figth Club",
+        "Director":"David Fincher",
+        "Year":"2001",
+        "ratings":"7.5"
+    }
+]
