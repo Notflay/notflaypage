@@ -58,41 +58,41 @@ const images = [
   "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0029_Layer-12.png",
   "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0030_Layer-6.png",
   "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0031_Layer-5.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0032_Layer-15.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0033_Layer-4.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0035_Layer-2.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0037_Layer-23.png",
-  "https://333clips333.xyz/img/Untitled-1.png",
-  "https://333clips333.xyz/img/SIMBOLO_SOLO_CHICO2-01.png",
-  "https://333clips333.xyz/img/LOGO_CHICO_2-01.png",
-  "https://333clips333.xyz/img/ANGEL_CHICO.gif",
-  "https://333clips333.xyz/img/anime_chico.gif",
-  "https://333clips333.xyz/img/anime_1.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0000_Layer-54.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0002_Layer-52.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0003_Layer-51.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0004_Layer-50.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0005_Layer-49.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0006_Layer-56.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0007_Layer-55.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0008_Layer-47.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0009_Layer-46.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0016_Layer-44.png",
-  "https://333clips333.xyz/img/SARA-WEB-DESIGN-3_0023_Layer-41.png",
-  "https://333clips333.xyz/img/Untitled-1_0001_Layer-6.png",
-  "https://333clips333.xyz/img/Untitled-1_0002_Layer-5.png",
-]
+  "../images/dark23.png",
+  "../images/dark22.png",
+  "../images/dark21.png",
+  "../images/dark20.png",
+  "../images/dark19.png",
+  "../images/dark18.png",
+  "../images/dark17.png",
+  "../images/dark16.png",
+  "../images/dark15.png",
+  "../images/dark14.png",
+  "../images/dark13.png",
+  "../images/dark12.png",
+  "../images/dark10.png",
+  "../images/dark9.png",
+  "../images/dark8.png",
+  "../images/dark7.png",
+  "../images/dark6.png",
+  "../images/dark5.png",
+  "../images/dark4.png",
+  "../images/dark3.png",
+  "../images/dark2.png",
+  "../images/dark1.png",
+  "../images/z.png",
+];
 
 const links = [
-  "http://www.bopsecrets.org/Spanish/religion.htm",
-  "https://networkcultures.org/wp-content/uploads/2021/09/CriticalMemeReader-1.pdf",
-  "https://templeos.org/",
+  "https://scontent.cdninstagram.com/v/t51.2885-15/347156865_274956158302245_455964737509363404_n.webp?stp=dst-jpg_e35&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_ohc=4FmOLgsInYwAX9l0lOB&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzEwNTQxNTU1MjIzOTkxNDE5NA%3D%3D.2-ccb7-5&oh=00_AfCYjuSyiIbR6-FFQEIMed3PTjfhLsrnZMVkaH0NABqc3A&oe=646CCDA7&_nc_sid=df044f",
+  "https://instagram.flim28-1.fna.fbcdn.net/v/t51.2885-15/342357053_594421155976982_7000853979953674515_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.flim28-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=qHFwc4F66fEAX-wW1tE&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzA4NTgwNzIyOTQyNTMwMzM0OQ%3D%3D.2-ccb7-5&oh=00_AfC17itWrwsQblSDAeaRz1NnwttZpfob0aFPLJLImCnzVw&oe=646B8959&_nc_sid=a1ad6c",
+  "https://instagram.flim28-2.fna.fbcdn.net/v/t51.2885-15/336333946_612219570296421_9051383185975428615_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.flim28-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=H6ty2f-B-PoAX8_flwS&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzA1ODk1NDE3NDI4MTIwNDk5Mg%3D%3D.2-ccb7-5&oh=00_AfDrY5milTCAc9PH_IbF4kLtE9VS4aRJyG2lsblzxVHccw&oe=646CC68C&_nc_sid=a1ad6c",
   "https://youtu.be/3Q6Fzbgs_Lg",
-  "https://culturetwo.wordpress.com/2014/03/31/why-i-hate-post-internet-art/",
-  "https://donotresearch.net/posts/millenarian-dreams-of-the-schizo-scene",
-  "https://youtu.be/gPbVRpRgHso?list=LL&t=29",
-  "https://theanarchistlibrary.org/",
-  "http://www.ccru.net/",
+  "https://instagram.flim28-1.fna.fbcdn.net/v/t51.2885-15/330387243_559728396085571_6629439308270074294_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.flim28-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=n_OwSk_aO3sAX-KGsms&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzAzNDQ1NDE0OTczNTkzNDQ1NA%3D%3D.2-ccb7-5&oh=00_AfBj9B8afyvmdXycy8ZYza8dHUg_J_JUkZKyvBqmyTzo6g&oe=646BCCB5&_nc_sid=a1ad6c",
+  "https://instagram.flim28-1.fna.fbcdn.net/v/t51.2885-15/321336377_691254492596910_8103320425689355203_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.flim28-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=HK0cybSNgAEAX-M-ZBH&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk5OTEzODEzOTIwNjgwNTQ2OA%3D%3D.2-ccb7-5&oh=00_AfCkxByKoWxelYKE0rzFCWQL_3CW-V6O8qug8CxwqPuJTw&oe=646C52B2&_nc_sid=a1ad6c",
+  "https://instagram.flim28-1.fna.fbcdn.net/v/t51.2885-15/321314817_188004420550131_9152184190114311671_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.flim28-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=5Zt6471p-W0AX-uajbS&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk5OTEzODEzOTE5ODMxNjA3NA%3D%3D.2-ccb7-5&oh=00_AfCAylKrzE_pDvk07yLFSgZXVvS_cDp2tScw55RtdDtOTA&oe=646B36D4&_nc_sid=a1ad6c",
+  "https://instagram.flim28-1.fna.fbcdn.net/v/t51.2885-15/321037138_498458412389226_1843053490064758198_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.flim28-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=FpSLeoBmjPcAX9p4LB4&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk5OTEzODEzOTIxNTE2MzM4MA%3D%3D.2-ccb7-5&oh=00_AfCxyMvLFzfzoWeadkcyMBqlIpOeEBrLgWFtCHQkmibUyQ&oe=646B45B1&_nc_sid=a1ad6c",
+  "https://instagram.flim28-1.fna.fbcdn.net/v/t51.2885-15/319657604_898452481145466_950089524003155622_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.flim28-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=cfQX52iJwXwAX9YMDcg&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=Mjk5Mjk3NjI3NjM0NTMwNzMzMg%3D%3D.2-ccb7-5&oh=00_AfA5VcHda-xa0KnodTUi_miV2l7UV_8qkqWx3htrqzfCIQ&oe=646C12EF&_nc_sid=a1ad6c",
   "https://d2w9rnfcy7mm78.cloudfront.net/2954262/original_474d9de6f1d4668b8f6f1227fe98c70b.jpg?1540880315?bc=1",
   "https://d2w9rnfcy7mm78.cloudfront.net/2521304/original_dae4705fb192691902afe4f3a05c8947.jpg?1533561409?bc=1",
   "https://d2w9rnfcy7mm78.cloudfront.net/7974640/original_8fbd95acfb78ee518dd7635204834908.jpg?1594546275?bc=0",
@@ -415,7 +415,7 @@ const links = [
   "https://arena-attachments.s3.amazonaws.com/18802335/1b071215059229c547686669189e9a72.pdf?1667438253",
 
   "docs/1b071215059229c547686669189e9a72.pdf",
-]
+];
 
 let currentIndex = 0;
 
@@ -496,3 +496,9 @@ setInterval(() => loop("img-43"), 3000);
 setInterval(() => loop("img-44"), 3000);
 setInterval(() => loop("img-45"), 3000);
 setInterval(() => loop("img-46"), 3000);
+
+$(".txt").html(function (i, html) {
+  var chars = $.trim(html).split("");
+
+  return "<span>" + chars.join("</span><span>") + "</span>";
+});
